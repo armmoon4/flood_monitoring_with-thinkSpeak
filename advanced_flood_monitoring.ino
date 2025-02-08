@@ -25,7 +25,7 @@ const int greenLED = D8;
 const char* ssid = "Gunslinger"; // Replace with your WiFi SSID
 const char* password = "12@#hridoy#@12"; // Replace with your WiFi Password
 const char* server = "api.thingspeak.com";
-const String writeAPIKey = "C78TXZEWI19XVMFD";
+const String writeAPIKey = "yourapikey";
 
 WiFiClient client;
 
